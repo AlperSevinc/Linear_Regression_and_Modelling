@@ -13,9 +13,9 @@ IMPORTANT: If the analysis is completed using software other than R, or not writ
 
 # Part 3: EDA (10 points)
 - 3 pts for plots
- - Plots should address the research questions (1 pt)
-Plots should be constructed correctly (1 pt)
-Plots should be formatted well – size not too large, not too small, etc. (1 pt)
+ Plots should address the research questions (1 pt)
+ Plots should be constructed correctly (1 pt)
+ Plots should be formatted well – size not too large, not too small, etc. (1 pt)
 3 pts for summary statistics
 Summary statistics should address the research questions (1 pt)
 Summary statistics should be calculated correctly (1 pt)
