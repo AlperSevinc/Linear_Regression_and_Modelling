@@ -7,13 +7,13 @@ IMPORTANT: If the analysis is completed using software other than R, or not writ
 - 1 pt for correct reasoning for causality – Answer should discuss whether random assignment was used.
 
 # Part 2: Research questions (3 points)
-Should be phrased in a non-causal way (1 pt)
-Should be well defined / not vague (1 pt)
-Is clear why this is of interest to the author / audience (1 pt)
+- Should be phrased in a non-causal way (1 pt)
+- Should be well defined / not vague (1 pt)
+- Is clear why this is of interest to the author / audience (1 pt)
 
 # Part 3: EDA (10 points)
-3 pts for plots
-Plots should address the research questions (1 pt)
+- 3 pts for plots
+ - Plots should address the research questions (1 pt)
 Plots should be constructed correctly (1 pt)
 Plots should be formatted well – size not too large, not too small, etc. (1 pt)
 3 pts for summary statistics
