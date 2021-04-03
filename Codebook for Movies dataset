@@ -10,7 +10,7 @@ When you are fitting a model you should also be careful about collinearity, as s
 
 # Codebook
 
-1. '''title:''' Title of movie
+1. title: Title of movie
 2. title_type: Type of movie (Documentary, Feature Film, TV Movie)
 3. genre: Genre of movie (Action & Adventure, Comedy, Documentary, Drama, Horror, Mystery & Suspense, Other)
 4. runtime: Runtime of movie (in minutes)
